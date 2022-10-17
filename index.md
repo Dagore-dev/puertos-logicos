@@ -22,4 +22,9 @@ En el administrador de tareas se puede inspeccionar qué ficheros lanzan cada un
 
 ## Puertos empleados por BBDD
 
-
+- `mysql`: 3306.
+- `mariaDB`: 3306.
+- `sql server`: 1433.
+- `PostgreSQL`: 5432.
+- `MongoDB`: 27017.
+- `Redis`: 6379.
