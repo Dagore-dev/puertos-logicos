@@ -28,3 +28,10 @@ En el administrador de tareas se puede inspeccionar qué ficheros lanzan cada un
 - `PostgreSQL`: 5432.
 - `MongoDB`: 27017.
 - `Redis`: 6379.
+
+## Software para escaneo de puertos online
+
+- [whatismyip](https://www.whatismyip.com/port-scanner/)
+- [IPFingerPrints](https://www.ipfingerprints.com/portscan.php)
+- [Hacker target](https://hackertarget.com/nmap-online-port-scanner/)
+- [hidemy.name](https://hidemy.name/es/port-scanner/)
